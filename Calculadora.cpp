@@ -14,7 +14,7 @@ int main(){
       {
             system("COLOR FC");
             cout << "\t\t\t==============******================" << endl;
-            cout << "\t\t\tQual Operacao voce deseja realizar?: " << endl;
+            cout << "\t\t\tQual Operacao voce deseja realizar? " << endl;
             cout << "\t\t\t==============******================" << endl
                  << endl
                  << endl;
