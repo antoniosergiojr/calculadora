@@ -2,8 +2,6 @@
 
 Project developed in C++. 
 
----
-
 ## 🚀 How to run
 
   > Cloning the repository
